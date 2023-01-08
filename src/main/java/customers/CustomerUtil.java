@@ -72,8 +72,6 @@ public class CustomerUtil {
 
         System.out.println(customerRecords);
 
-
-
     }
 
     public void iterateOverCollection(Stream<ReadOnlyCustomer> stream, String msg) {
